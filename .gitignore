@@ -6,3 +6,6 @@ VLM-classifier/src/r1-v/logs/
 VLM-classifier/src/r1-v/checkpoints/
 VLM-classifier/src/r1-v/Evaluation/VideoMMMU
 VLM-classifier/src/r1-v/Evaluation/Video-R1-eval
+
+*.pth
+*.pyc

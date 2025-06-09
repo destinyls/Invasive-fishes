@@ -1,0 +1,13 @@
+{
+  "000002.jpg": {
+    "predicted_class": "carp",
+    "similarity": 0.8489698171615601,
+    "top_predictions": {
+      "carp": 0.8489698171615601,
+      "brown_trout": 0.8157074451446533,
+      "mosquitofish": 0.7617616057395935,
+      "largemouth_bass": 0.7514263391494751,
+      "oreochromis_mossambicus": 0.7460390329360962
+    }
+  }
+}
